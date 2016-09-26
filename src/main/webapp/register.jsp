@@ -1,7 +1,7 @@
 <%-- 
     Document   : register.jsp
-    Created on : Sep 28, 2014, 6:29:51 PM
-    Author     : Administrator
+    Created on : Sep 26, 2016, 1:50:00 PM
+    Author     : Virgil Iordache
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
