@@ -14,7 +14,7 @@
     </head>
     <body>
         <h1>InstaGrim ! </h1>
-        <h2>Your world in Black and White</h2>
+        <h2>Your world in Black and White, waiting for you to upload a picture.</h2>
         <nav>
             <ul>
                 <li class="nav"><a href="upload.jsp">Upload</a></li>
