@@ -1,7 +1,7 @@
 <%-- 
-    Document   : UsersPics
-    Created on : Sep 24, 2014, 2:52:48 PM
-    Author     : Administrator
+    Document   : UserPics.jsp
+    Created on : Sep 26, 2016, 1:50:00 PM
+    Author     : Virgil Iordache
 --%>
 
 <%@page import="java.util.*"%>
@@ -17,7 +17,7 @@
     <body>
         <header>
         
-        <h1>InstaGrim ! </h1>
+        <h1>InstaGrim!</h1>
         <h2>Your world in Black and White</h2>
         </header>
         

@@ -1,8 +1,7 @@
 <%-- 
-    Document   : index
-    Created on : Sep 28, 2014, 7:01:44 PM
-    Author     : Administrator
-    Testing
+    Document   : index.jsp
+    Created on : Sep 26, 2016, 1:50:00 PM
+    Author     : Virgil Iordache
 --%>
 
 
@@ -17,13 +16,11 @@
     </head>
     <body>
         <header>
-            <h1>InstaGrim ! </h1>
+            <h1>InstaGrim!</h1>
             <h2>Your world in Black and White, welcoming to the Home Page</h2>
         </header>
         <nav>
             <ul>
-
-               
                 <li><a href="upload.jsp">Upload</a></li>
                     <%
                         
@@ -48,7 +45,6 @@
         <footer>
             <ul>
                 <li class="footer"><a href="/Instagrim">Home</a></li>
-                <li>&COPY; Andy C</li>
             </ul>
         </footer>
     </body>

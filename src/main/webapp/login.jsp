@@ -1,7 +1,7 @@
 <%-- 
     Document   : login.jsp
-    Created on : Sep 28, 2014, 12:04:14 PM
-    Author     : Administrator
+    Created on : Sep 26, 2016, 1:50:00 PM
+    Author     : Virgil Iordache
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -15,12 +15,11 @@
     </head>
     <body>
         <header>
-        <h1>InstaGrim ! </h1>
+        <h1>InstaGrim!</h1>
         <h2>Your world in Black and White, waiting for you to log in.</h2>
         </header>
         <nav>
             <ul>
-                
                 <li><a href="/Instagrim/Images/majed">Sample Images</a></li>
             </ul>
         </nav>
@@ -29,7 +28,7 @@
             <h3>Login</h3>
             <form method="POST"  action="Login">
                 <ul>
-                    <li>User Name <input type="text" name="username"></li>
+                    <li>Username <input type="text" name="username"></li>
                     <li>Password <input type="password" name="password"></li>
                 </ul>
                 <br/>
