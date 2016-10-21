@@ -19,6 +19,7 @@
             <ul>
                 <li class="nav"><a href="upload.jsp">Upload</a></li>
                 <li class="nav"><a href="/Instagrim/Images/majed">Sample Images</a></li>
+                <li><a href="logout.jsp">Logout</a></li>
             </ul>
         </nav>
  
