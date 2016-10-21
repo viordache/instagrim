@@ -29,7 +29,8 @@
                             String UserName = lg.getUsername();
                             if (lg.getLoggedIn()) {
                     %>
-
+                <li><a href="logout.jsp">Logout</a></li>
+                
                 <li><a href="/Instagrim/Images/<%=lg.getUsername()%>">Your Images</a></li>
                     <%}
                             }else{
