@@ -14,7 +14,7 @@
         <link rel="stylesheet" type="text/css" href="Styles.css" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
-    <body>
+    <body background="black-and-white.jpg">
         <header>
             <h1>InstaGrim!</h1>
             <h2>Your world in Black and White, welcoming to the Home Page</h2>

@@ -12,7 +12,7 @@
         <title>Instagrim</title>
         <link rel="stylesheet" type="text/css" href="Styles.css" />
     </head>
-    <body>
+    <body background="black-and-white.jpg">
         <header>
         <h1>InstaGrim!</h1>
         <h2>Your world in Black and White, waiting for you to join.</h2>

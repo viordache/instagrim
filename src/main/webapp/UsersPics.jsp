@@ -14,7 +14,7 @@
         <title>Instagrim</title>
         <link rel="stylesheet" type="text/css" href="/Instagrim/Styles.css" />
     </head>
-    <body>
+    <body background="black-and-white.jpg">
         <header>
         
         <h1>InstaGrim!</h1>
