@@ -13,25 +13,25 @@
         <link rel="stylesheet" type="text/css" href="Styles.css" />
         
     </head>
-    <body background="black-and-white.jpg">
+    <body background="cat-black-and-white.jpg">
          <header>
-        <h1>InstaGrim!</h1>
-        <h2>Your world in Black and White, saying goodbye to you.</h2>
+             <h1><font color="white">InstaGrim!</font></h1>
+             <h2><font color="white">Your world in Black and White, saying goodbye to you.</font></h2>
         </header>
     </body>
-    <h3>You have successfully logged out.</h3>
+    <h3><font color="white">You have successfully logged out.</font></h3>
     <nav>
             <ul>
                 <%  session.setAttribute("username", null);
                     session.invalidate();
                 %>
-                 <li><a href="register.jsp">Register</a></li>
-                <li><a href="login.jsp">Login</a></li>
+                <li><font color="white"><a href="register.jsp">Register</a></font></li>
+                <li><font color="white"><a href="login.jsp">Login</a></font></li>
             </ul>
         </nav>
     <footer>
             <ul>
-                <li class="footer"><a href="/Instagrim">Home</a></li>
+                <li class="footer"><font color="white"><a href="/Instagrim">Home</a></font></li>
             </ul>
         </footer>
 </html>
